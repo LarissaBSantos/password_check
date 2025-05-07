@@ -11,7 +11,7 @@ setup(
     description="Checks whether passwords meet security criteria.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/LarissaBSantos/password_check",
     packages=find_packages(),
     python_requires = ">=3.7",
 )
