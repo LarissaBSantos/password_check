@@ -1,2 +1,6 @@
 ./requirements.txt
 ./setup.py
+.venv/
+build/
+dist/
+password_check.egg-info/
